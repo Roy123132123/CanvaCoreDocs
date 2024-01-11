@@ -1,0 +1,35 @@
+$width:100vw;
+$height:100vh;
+body{
+    height: $height;
+    width: $width;
+    background-color: rgba(30,30,30,1);
+    margin: 0px;
+    padding: 0px;
+}
+.CoppyR{
+    margin-top: 90vh;
+    margin-left: 93vw;
+    font-size: 105%;
+    position: fixed;
+}
+.Switch{
+    margin-left: 83.5vw;
+    float: right;
+    background-image: url(../imgs/brightness.png);
+    background-size: contain;
+    height: 5vh;
+    width: 2.5vw;
+    border-radius: 50% 50% 50% 50%;
+}
+ul{
+    width: $width;
+    list-style-type: none;
+    display: flex;
+    background-color: gray;
+    margin: 0px;
+    padding: 0px;
+}
+li{
+    padding-left: 2vw;
+}
