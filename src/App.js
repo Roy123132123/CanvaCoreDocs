@@ -6,7 +6,7 @@ function App() {
       <ul className = "FlexBox">
         <li className = "Ln"><a className = "Nl">basics</a></li>
         <li className = "Ln"><a className =  "Nl">documentation</a></li>
-        <li className = "Ln"><button className = "Switch"></button></li>
+        <li className = "Ln NT"><button className = "Switch"></button></li>
       </ul>
     </>
 
