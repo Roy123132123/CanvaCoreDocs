@@ -16,7 +16,7 @@ body {
 .Switch {
   margin-left: 83.5vw;
   float: right;
-  background-image: url(../imgs/brightness.png);
+  background-image: url(../);
   background-size: contain;
   height: 5vh;
   width: 2.5vw;
